@@ -1,1 +1,3 @@
-# token
+# Repository with Smart Contract code for the DAO Token
+
+In development...
